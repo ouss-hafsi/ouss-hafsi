@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi everyone  👋
+My name is Oussema Ben Hafsi, I’m a Software Engineer and Graphic Designer with a passion for design and solving problems. My previous experience equips me with an artist eye and creativity to build creative digital projects on the web. 
 
-<!--
-**ouss-hafsi/ouss-hafsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
