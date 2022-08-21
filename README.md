@@ -4,7 +4,7 @@ My name is Oussema Ben Hafsi, I’m a Software Engineer and Graphic Designer wit
 
 
 ## SKILLS
-JavaScript | React | Python | HTML/CSS | Mongodb | Mongoose | Python | Django
+JavaScript | React | HTML/CSS | Mongodb | Mongoose | postgreSQL | Python | Django 
 
 Adobe Suite: Photoshop, Illustrator, InDesign, After Effects, Premier 
 
