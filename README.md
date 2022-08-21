@@ -8,7 +8,7 @@ JavaScript | React | HTML/CSS | Mongodb | Mongoose | postgreSQL | Python | Djang
 
 Adobe Suite: Photoshop, Illustrator, InDesign, After Effects, Premier 
 
-| Revit | AutoCAD | SolidWorks
+Revit | AutoCAD | SolidWorks
 
 
 ## Social media
