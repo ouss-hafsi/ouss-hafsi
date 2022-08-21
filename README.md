@@ -11,3 +11,4 @@ Adobe Suite: Photoshop, Illustrator, InDesign, After Effects, Premier
 
 ## Social media
 [my Behance profile](https://www.behance.net/oussamaben4273I)
+[my Linkedin profile](https://www.linkedin.com/in/oussema-ben-hafsi-2211b5217/)
