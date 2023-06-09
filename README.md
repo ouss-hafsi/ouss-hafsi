@@ -12,7 +12,7 @@ Revit | AutoCAD | SolidWorks
 
 
 ## Social media
-[my Portfolio]https://ouss-hafsi.github.io/portfolio/
+[my Portfolio](https://ouss-hafsi.github.io/portfolio/)
 
 [my Linkedin profile](https://www.linkedin.com/in/oussema-ben-hafsi-2211b5217/)
 
